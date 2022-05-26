@@ -4,7 +4,8 @@ Welcome to our house!
 
 <details>
   <summary> Lola </summary>
-  Hey, I'm Lola and I'm a tornado of Love make sure you bend your knees to meet me or you might get knocked to the ground out of joy.   
+  Hey, I'm Lola and I'm a tornado of Love make sure you bend your knees to meet me or you might get knocked to the ground.  
+  <br> </br>
 
   ![](Lola.jpg)
 
@@ -14,6 +15,28 @@ Welcome to our house!
 <details>
   <summary> Henna </summary>  
   Hello, my name's Henna! I like to cuddle and play with my sister whenever she lets me.   
+</details>
+
+<details>
+  <summary> Schedule and Details</summary>
+  
+- Feeding
+  - Once a Day after 8pm
+  - One Dry Scoop and 1/2 a can of wet food
+  - Feed them at the same time and about 10 feet apart
+  - Watch Lola to make sure she doesn't bother Henna until she's done eating
+- Going Potty
+  - Usually take them out when you wake up
+  - We don't take them out until around noon usually. But If you get them up earlier they'll ask to go out. 
+- Drinking water
+  - After playing outside Lola will drink a gallon of water. It's essential no more playing occurs for the next 30 minutes or she will throw it up 
+- Playtime
+  - Optional
+  - whenever you want, they're more than happy to play with each other and eat their bones
+  - There are balls in the right drawer of the tv stand. This is a very special treat for Lola and you'll have to make sure to put the ball back in the drawer after playing  
+- Lola's Medical Issues
+  - She likes to throw up out of the blue randomly most of the time it's just water. 
+  - If she's licking her nail a lot she may have broken it and you'll have to put on her donut of shame. 
 </details>
 
 
