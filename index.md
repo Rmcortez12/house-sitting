@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 # Maintenance Schedule
 - Trash
-  -- Take out Sunday night for Monday and Wednesday night for Thursday
+  - Take out Sunday night for Monday and Wednesday night for Thursday
 - Recycle
 -- Take out Sunday night for Monday
 ```markdown
