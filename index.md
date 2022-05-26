@@ -4,10 +4,9 @@ Welcome to our house!
 
 <details>
   <summary> Lola </summary>
-  Hey, I'm Lola and I'm a tornado of Love make sure you bend your knees to meet me or you might get knocked to the ground.  
-  <br> </br>
+Hey, I'm Lola and I'm a tornado of Love make sure you bend your knees to meet me or you might get knocked to the ground. 
 
-  ![](Lola.jpg)
+![](Lola.jpg)
 
   
 </details>
@@ -19,7 +18,7 @@ Welcome to our house!
 
 <details>
   <summary> Schedule and Details</summary>
-  
+
 - Feeding
   - Once a Day after 8pm
   - One Dry Scoop and 1/2 a can of wet food
