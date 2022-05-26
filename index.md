@@ -5,13 +5,15 @@ Welcome to our house!
 <details>
   <summary> Lola </summary>
   Hey, I'm Lola and I'm a tornado of Love make sure you bend your knees to meet me or you might get knocked to the ground out of joy.   
+
+  ![](Lola.jpg)
+
   
 </details>
   
 <details>
   <summary> Henna </summary>  
   Hello, my name's Henna! I like to cuddle and play with my sister whenever she lets me.   
-  
 </details>
 
 
