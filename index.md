@@ -3,10 +3,8 @@ Welcome to our house!
 # The Puppies
 
 <details>
-  <summary> Expand to meet the puppies </summary>
-
-## Lola 
-## Henna
+  <summary> Lola </summary>
+  <summary> Henna </summary>
   
 </details>
 
