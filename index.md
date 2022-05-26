@@ -1,7 +1,9 @@
+Welcome to our house!
 
-Syntax highlighted code block
+# The Puppies
+
 <details>
-  <summary> # The Puppies </summary>
+  <summary> Expand to meet the puppies </summary>
 
 ## Lola 
 ## Henna
