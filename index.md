@@ -4,12 +4,10 @@ Welcome to our house!
 
 <details>
   <summary> Lola </summary>
+</details
   
- </details
-  
- <details>
-  <summary> Henna </summary>
-  
+<details>
+  <summary> Henna </summary>  
 </details>
 
 
