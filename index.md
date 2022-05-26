@@ -11,7 +11,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# The Puppies
+
+## Lola 
+## Henna
+
+# Working with Google
+
+# Downstairs
+
+# Upstairs
+
+# Maintenance Schedule
+- Trash
+  -- Take out Sunday night for Monday and Wednesday night for Thursday
+- Recycle
+-- Take out Sunday night for Monday
+
 ## Header 2
 ### Header 3
 
