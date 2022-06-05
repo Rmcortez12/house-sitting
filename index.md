@@ -6,7 +6,7 @@ Welcome to our house!
   <summary> Lola </summary>
 This is Lola and she is a tornado of Love make sure you bend your knees to meet her or you might get knocked to the ground. 
 
-![](./Lola.jpg)
+![](https://github.com/Rmcortez12/house-sitting/blob/gh-pages/Lola.jpg)
 
   
 </details>
