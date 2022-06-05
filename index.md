@@ -4,7 +4,7 @@ Welcome to our house!
 
 <details>
   <summary> Lola </summary>
-Hey, I'm Lola and I'm a tornado of Love make sure you bend your knees to meet me or you might get knocked to the ground. 
+This is Lola and she is a tornado of Love make sure you bend your knees to meet her or you might get knocked to the ground. 
 
 ![](./Lola.jpg)
 
@@ -13,7 +13,7 @@ Hey, I'm Lola and I'm a tornado of Love make sure you bend your knees to meet me
   
 <details>
   <summary> Henna </summary>  
-  Hello, my name's Henna! I like to cuddle and play with my sister whenever she lets me.   
+  Meet Henna! She's a bundle of love and will cuddle behind you all day if you let her.   
 </details>
 
 <details>
