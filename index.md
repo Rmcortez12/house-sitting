@@ -6,7 +6,7 @@ Welcome to our house!
   <summary> Lola </summary>
 Hey, I'm Lola and I'm a tornado of Love make sure you bend your knees to meet me or you might get knocked to the ground. 
 
-![](Lola.jpg)
+![](./Lola.jpg)
 
   
 </details>
