@@ -117,3 +117,46 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
   - The Grass guy comes once every two weeks (They don't tell us when, they just show up). Don't let the dogs out while they're at the house. 
 - Scoop Soldiers
   - These guys pick the poop up every Friday sometimes Saturday morning if they're running late. Don't let the dogs out 
+
+# Things to Do in San Antonio
+(expect to drive 25-35 minutes anywhere)
+
+## Downtown
+- The Riverwalk
+- The Perl
+- Museum of Art
+- The Alamo
+- Tower of the Americas
+- Hemisphere park
+
+## Other attractions
+- Six flags
+- Seaworld
+- Witte Museum
+- Japanase Sunken gardens
+- The zoo
+- Land Bridge on Wurzbach
+- The Missions
+- La Cantera shopping center
+- San Antonio Football club
+- There are tons and tons of parks and trails to walk as well. 
+- Eisenhower park is a beautiful trail and easy to medium walk. 
+- Farmers market at the Perl on the weekends. 
+
+
+## Just outside of the city
+- Fredericksburg (1hr)
+  - wineries and Main street
+- The Outlet mall in San Marcos (1hr)
+- Drive thru safari (1hr)
+
+## Food Recommendations
+- Datapoint Taqueria on dezevala
+- Box St. in hemisphere
+- The Park (Food truck park) on utsa
+- Cured at the pearl
+- Nama Ramen
+- The Rim Common areas has a bunch of options as well
+- Pluckers 
+- Smashing Crab
+- 
