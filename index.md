@@ -2,24 +2,19 @@ Welcome to our house!
 
 # The Puppies
 
+
+## Lola
 ![Lola Bear](./photos/Lola.jpg)
 
-
-<details>
-  <summary> Lola </summary>
 This is Lola and she is a tornado of Love make sure you bend your knees to meet her or you might get knocked to the ground. 
 
 
-  
-</details>
-  
-<details>
-  <summary> Henna </summary>  
-  Meet Henna! She's a bundle of love and will cuddle behind you all day if you let her.   
-</details>
+## Henna
+![Henna Bear](./photos/Henna.jpg)
+Meet Henna, part time potato, part time dog! She's a bundle of love and will cuddle behind you all day if you let her.   
 
-<details>
-  <summary> Schedule and Details</summary>
+
+# Schedule and Details
 
 - Feeding
   - Once a Day after 8pm
@@ -31,14 +26,12 @@ This is Lola and she is a tornado of Love make sure you bend your knees to meet 
   - We don't take them out until around noon usually. But If you get them up earlier they'll ask to go out. 
 - Drinking water
   - After playing outside Lola will drink a gallon of water. It's essential no more playing occurs for the next 30 minutes or she will throw it up 
-- Playtime
-  - Optional
+- Playtime (Optional)
   - whenever you want, they're more than happy to play with each other and eat their bones
-  - There are balls in the right drawer of the tv stand. This is a very special treat for Lola and you'll have to make sure to put the ball back in the drawer after playing  
+  - There are balls in the right drawer of the tv stand. This is a very special treat for Lola and you'll have to make sure to put the ball back in the drawer after playing. Don't play with her too long she doesn't know her own limits and will play too long. Especially in the summer heat. 
 - Lola's Medical Issues
   - She likes to throw up out of the blue randomly most of the time it's just water. 
   - If she's licking her nail a lot she may have broken it and you'll have to put on her donut of shame. 
-</details>
 
 
 # Working with Google
