@@ -127,7 +127,7 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 - Museum of Art
 - The Alamo
 - Tower of the Americas
-- Hemisphere park
+- Hemisfair park
 
 ## Other attractions
 - Six flags
@@ -152,11 +152,15 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 
 ## Food Recommendations
 - Datapoint Taqueria on dezevala
-- Box St. in hemisphere
+- Box Street Social dowtown
+- Dough Pizzeria
+- The Shack (get the oreo churros)
 - The Park (Food truck park) on utsa
 - Cured at the pearl
 - Nama Ramen
 - The Rim Common areas has a bunch of options as well
 - Pluckers 
 - Smashing Crab
-- 
+- Alamo biscuit company
+- Breakfast tacos from Sandras on uber eats
+
