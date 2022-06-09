@@ -62,6 +62,7 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
   - If she's licking her nail a lot she may have broken it and you'll have to put on her donut of shame. 
 
 <br/><br/>
+
 # Working with Google
 - Lights
   - Most of the flood lights in the house are smart lights. 
@@ -84,12 +85,14 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
   - She can also stream for you `Hey google play funny videos on the TV`
   - You can use her just as you would a regular google search as well
 <br/><br/>
+
 # Downstairs
 - Master Bedroom
   - Leave this door open at all times. The dogs kennels are in there and they like to sleep on the bed and in their kennels throughout the day. 
 - Very Very Important: **Don't use the Front door ever**
 - __Use the garage for all your entrances and exits. Ensure the garage door is closed entirely when you arrive. And the door to the garage is closed before opening the Garage. This is of the utmost importance to ensure proper dog safety.__ 
 <br/><br/>
+
 # Upstairs
 - Theater Room
   - The sofa is a pull out Queen sleeper. This paired with the chaise can sleep multiple people. 
@@ -116,6 +119,7 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 - Office 2
   - If you need to do some work on your laptop and want to use larger monitors there will be a black usb-c cable on the desk with a black and red chair. Should be plug and use. 
 <br/><br/>
+
 # Maintenance Schedule
 - Trash
   - Take out Sunday night for Monday and Wednesday night for Thursday
@@ -129,9 +133,20 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 - Scoop Soldiers
   - These guys pick the poop up every Friday sometimes Saturday morning if they're running late. Don't let the dogs out 
 <br/><br/>
+
+# Stores close by
+- Costco
+- HEB
+- Target
+- Lowes
+- Shopping Center on Culebra
+- There's an emergency hospital on alamo ranch parkway as well 24x7
+
+
 # Things to Do in San Antonio
 (expect to drive 25-35 minutes anywhere)
 <br/><br/>
+
 ## Downtown
 - The Riverwalk
 - The Perl
@@ -140,6 +155,7 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 - Tower of the Americas
 - Hemisfair park
 <br/><br/>
+
 ## Other attractions
 - Six flags
 - Seaworld
@@ -160,9 +176,12 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
   - wineries and Main street
 - The Outlet mall in San Marcos (1hr)
 - Drive thru safari (1hr)
+
 <br/><br/>
+
 ## Food Recommendations
 - Datapoint Taqueria on dezevala
+- Kuma (waffle ice cream)
 - Box Street Social dowtown
 - Dough Pizzeria
 - The Shack (get the oreo churros)
@@ -174,4 +193,4 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 - Smashing Crab
 - Alamo biscuit company
 - Breakfast tacos from Sandras on uber eats
-
+- Artea
