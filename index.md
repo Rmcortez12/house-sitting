@@ -1,20 +1,20 @@
 # Welcome to our house!
 
 First off thank you for being willing to hang with the puppies! They'll enjoy your time and ensure you're never lonely. Second, the dogs are the number one priority over anything else in the house! In the case of emergencies ensure their safety over any object or papers in the house, of course after your own safety. All of that can be replaced, the pups can't be. 
-<br />
+<br/><br/>
 # The Puppies
 
-<br />
+<br/><br/>
 ## Lola
 ![Lola Bear](./photos/Lola.jpg)
 
 This is Lola and she is a tornado of Love make sure you bend your knees to meet her or you might get knocked to the ground. She doesn't know when to stop playing so you'll have to make sure she won't overheat if you're playing outside. 
 
-<br />
+<br/><br/>
 ## Henna
 ![Henna Bear](./photos/Henna.jpg)
 Meet Henna, part time potato, part time dog! She's a bundle of love and will cuddle behind you all day if you let her.   
-<br />
+<br/><br/>
 ## General Guidelines
 - Don't use the front door
 - Every morning after they go to the bathroom they each get a half-toothbrush stick from the kitchen pantry
@@ -24,25 +24,25 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 - They may stink a little after coming in from the outside but it'll go away after a few minutes. 
 - Both dogs will do most things for a cookie if you can't get her to come inside. 
 - Cookies are in the pantry in the kitchen on the bottom floor. 
-<br />
+<br/><br/>
 ## Emergency Retrieval
 - This is a just in case you don't follow the guidelines and one dog gets outside. 
 - You can chase Henna for 3 seconds and then once she turns to see you start running in the opposite direction and then run into the house when she starts chasing you. 
 - For Lola if you yell at her loud enough, and show her a cookie she might listen. If not there are tennis balls in the tv stand that she'd die for. 
 - Grab one and bounce it on the floor to get her attention and then throw it in the house. 
-<br />
+<br/><br/>
 ## Leaving the House
 - The dogs can be alone for at most 10 hours and that's pushing it.
 - When you leave just close the gates to keep them from going upstairs
 - Leave through the garage and come back through the garage
 - also tell google to play some music 
 ``` Hey google play some music```
-<br />
+<br/><br/>
 ## Sleeping
 - They would love to sleep with anyone for the night
 - If you don't want them sleeping with you close the gate to the upstairs and ensure the master bedroom door is open and their kennels are open. 
-<br />
-# Schedule and Details
+<br/><br/>
+## Schedule and Details
 
 - Feeding
   - Once a Day after 8pm
@@ -61,7 +61,7 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
   - She likes to throw up out of the blue most of the time it's just water. 
   - If she's licking her nail a lot she may have broken it and you'll have to put on her donut of shame. 
 
-<br />
+<br/><br/>
 # Working with Google
 - Lights
   - Most of the flood lights in the house are smart lights. 
@@ -83,13 +83,13 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
   - Or set an alarm for you in the morning `Hey Google set an alarm for eight a.m.`
   - She can also stream for you `Hey google play funny videos on the TV`
   - You can use her just as you would a regular google search as well
-<br />
+<br/><br/>
 # Downstairs
 - Master Bedroom
   - Leave this door open at all times. The dogs kennels are in there and they like to sleep on the bed and in their kennels throughout the day. 
 - Very Very Important: **Don't use the Front door ever**
 - __Use the garage for all your entrances and exits. Ensure the garage door is closed entirely when you arrive. And the door to the garage is closed before opening the Garage. This is of the utmost importance to ensure proper dog safety.__ 
-<br />
+<br/><br/>
 # Upstairs
 - Theater Room
   - The sofa is a pull out Queen sleeper. This paired with the chaise can sleep multiple people. 
@@ -115,7 +115,7 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
   - This can be used an additional guest room with an air mattress
 - Office 2
   - If you need to do some work on your laptop and want to use larger monitors there will be a black usb-c cable on the desk with a black and red chair. Should be plug and use. 
-<br />
+<br/><br/>
 # Maintenance Schedule
 - Trash
   - Take out Sunday night for Monday and Wednesday night for Thursday
@@ -128,10 +128,10 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
   - The Grass guy comes once every two weeks (They don't tell us when, they just show up). Don't let the dogs out while they're at the house. 
 - Scoop Soldiers
   - These guys pick the poop up every Friday sometimes Saturday morning if they're running late. Don't let the dogs out 
-<br />
+<br/><br/>
 # Things to Do in San Antonio
 (expect to drive 25-35 minutes anywhere)
-<br />
+<br/><br/>
 ## Downtown
 - The Riverwalk
 - The Perl
@@ -139,7 +139,7 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 - The Alamo
 - Tower of the Americas
 - Hemisfair park
-<br />
+<br/><br/>
 ## Other attractions
 - Six flags
 - Seaworld
@@ -153,14 +153,14 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 - There are tons and tons of parks and trails to walk as well. 
 - Eisenhower park is a beautiful trail and easy to medium walk. 
 - Farmers market at the Perl on the weekends. 
-<br />
+<br/><br/>
 
 ## Just outside of the city
 - Fredericksburg (1hr)
   - wineries and Main street
 - The Outlet mall in San Marcos (1hr)
 - Drive thru safari (1hr)
-<br />
+<br/><br/>
 ## Food Recommendations
 - Datapoint Taqueria on dezevala
 - Box Street Social dowtown
