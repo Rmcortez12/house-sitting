@@ -20,16 +20,24 @@ Meet Henna, part time potato, part time dog! She's a bundle of love and will cud
 - Every morning after they go to the bathroom they each get a half-toothbrush stick from the kitchen pantry
 - Toothbrushes are in the kitchen pantry
 - If you don't want someone sleeping with you at night leave them downstairs with the gate closed
-- When you leave the house don't use the front door, and make sure the gate to the upstairs is closed
 - Don't leave them outside for too long. Lola will beg to go out constantly but they like to dig at the fence and they barka the neighbor's dogs when they're outside. 
 - They may stink a little after coming in from the outside but it'll go away after a few minutes. 
 - Both dogs will do most things for a cookie if you can't get her to come inside. 
 - Cookies are in the pantry in the kitchen on the bottom floor. 
-# Emergency Retrieval
+## Emergency Retrieval
 - This is a just in case you don't follow the guidelines and one dog gets outside. 
 - You can chase Henna for 3 seconds and then once she turns to see you start running in the opposite direction and then run into the house when she starts chasing you. 
 - For Lola if you yell at her loud enough, and show her a cookie she might listen. If not there are tennis balls in the tv stand that she'd die for. 
 - Grab one and bounce it on the floor to get her attention and then throw it in the house. 
+## Leaving the House
+- The dogs can be alone for at most 10 hours and that's pushing it.
+- When you leave just close the gates to keep them from going upstairs
+- Leave through the garage and come back through the garage
+- also tell google to play some music 
+``` Hey google play some music```
+## Sleeping
+- They would love to sleep with anyone for the night
+- If you don't want them sleeping with you close the gate to the upstairs and ensure the master bedroom door is open and their kennels are open. 
 
 # Schedule and Details
 
